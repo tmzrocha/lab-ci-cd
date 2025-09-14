@@ -42,8 +42,8 @@
         }
     ],
     "family": "ci-cd-app",
-    "taskRoleArn": "arn:aws:iam::69736712603:role/LabRole",
-    "executionRoleArn": "arn:aws:iam::69736712603:role/LabRole",
+    "taskRoleArn": "arn:aws:iam::697367126035:role/LabRole",
+    "executionRoleArn": "arn:aws:iam::697367126035:role/LabRole",
     "networkMode": "awsvpc",
     "volumes": [],
     "placementConstraints": [],
